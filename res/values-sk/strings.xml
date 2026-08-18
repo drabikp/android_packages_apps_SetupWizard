@@ -33,4 +33,23 @@
     <string name="setup_services">LineageOS funkcie</string>
     <string name="services_help_improve_cm">Pomôžte vylepšiť <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Používajte navigačné tlačidlá na obrazovke</b> namiesto hardvérových tlačidiel.</string>
+    <string name="setup_welcome_message">Vitajte v <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Nastavte si pracovný profil</string>
+    <string name="intro_restore_subtitle">Ak máte zálohu Seedvault zo systému <xliff:g id="name" example="LineageOS">%s</xliff:g> alebo z iného operačného systému, môžete ju tu obnoviť.</string>
+    <string name="setup_theme">Motív</string>
+    <string name="theme_summary">Tmavý motív používa čierne pozadie, ktoré na niektorých displejoch pomáha predĺžiť výdrž batérie</string>
+    <string name="dark">Tmavý</string>
+    <string name="light">Svetlý</string>
+    <string name="setup_navigation">Navigácia</string>
+    <string name="navigation_summary">Vyberte si preferovaný spôsob navigácie</string>
+    <string name="gesture_navigation">Navigácia gestami</string>
+    <string name="navbar_navigation">Navigácia s 3 tlačidlami</string>
+    <string name="hide_gesture_hint">Skryť indikátor navigácie gestami</string>
+    <string name="accessibility_settings">Nastavenia prístupnosti</string>
+    <string name="location_agps_access_summary">Keď je poloha zapnutá, <b>sťahovať z internetu údaje satelitnej asistencie</b>, čo môže výrazne zrýchliť spustenie GPS.</string>
+    <string name="services_pp_explanation">Tieto služby rozširujú možnosti vášho zariadenia. Údaje sa budú používať v súlade so zásadami ochrany osobných údajov systému <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Zásady ochrany osobných údajov si môžete prečítať na inom zariadení na adrese <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> automatickým odosielaním diagnostických údajov a údajov o používaní do <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Tieto údaje vás nedokážu identifikovať a pomáhajú tímom, ktoré pracujú na veciach ako výdrž batérie, výkon aplikácií a nové funkcie systému <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
+    <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
 </resources>
